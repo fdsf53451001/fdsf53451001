@@ -4,10 +4,7 @@
 
 ### 👨🏻‍💻 About Me
 
-🌱 &nbsp;I am learning Computer vision.\
-🌱 &nbsp;I am learning NLP.\
-🌱 &nbsp;I am learning Stock / Cryptocurrency analysis.\
-🎓 &nbsp;I'm currently studying CSIE at CGU.\
+🎓 &nbsp;I'm currently studying CSIE at NCU.\
 ✍️ &nbsp;My Blog about programming experience at https://medium.com/@fdsf53451001 \
 📃 &nbsp;My Website about working experience at https://fdsf53451001.github.io/personal_page
 
